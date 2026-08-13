@@ -1,0 +1,552 @@
+{
+  "month": "August",
+  "strategy": "Maksymalne wykorzystanie sezonu letniego bez sztucznego zwiększania liczby publikacji.",
+  "approval_required": true,
+  "google_calendar_changed": false,
+  "status": "APPROVED",
+  "weeks": [
+    {
+      "week": 1,
+      "date_from": "01.08.2026",
+      "date_to": "07.08.2026",
+      "content": [
+        {
+          "date": "01.08.2026",
+          "type": "Stories",
+          "goal": "Trust",
+          "topic": "Życie studia + opinia klienta",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Nagrać naturalne ujęcia studia",
+            "Wybrać 1–3 opinie Google"
+          ]
+        },
+        {
+          "date": "03.08.2026",
+          "type": "Reel",
+          "goal": "Reach",
+          "topic": "Duży projekt — historia realizacji",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "TikTok",
+            "YouTube Shorts"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać mocną realizację",
+            "Nagrać proces lub detale pracy",
+            "Wykonać zdjęcia gotowego tatuażu",
+            "Uzyskać zgodę klienta"
+          ]
+        },
+        {
+          "date": "03.08.2026",
+          "type": "Stories",
+          "goal": "Studio life",
+          "topic": "Życie studia i praca zespołu",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Nagrać spontaniczne materiały",
+            "Pokazać atmosferę studia"
+          ]
+        },
+        {
+          "date": "05.08.2026",
+          "type": "Post",
+          "goal": "Portfolio",
+          "topic": "Najmocniejsza duża realizacja tygodnia",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "Google Business",
+            "Pinterest"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać najlepsze zdjęcia",
+            "Sprawdzić jakość materiału",
+            "Przygotować opis"
+          ]
+        },
+        {
+          "date": "05.08.2026",
+          "type": "Stories",
+          "goal": "Sales",
+          "topic": "Wolne terminy i możliwość rezerwacji",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Administrator sprawdza aktualne wolne terminy",
+            "Wybrać tylko realnie dostępne terminy",
+            "Przygotować komunikat bez sztucznej presji"
+          ]
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "week": 2,
+      "date_from": "08.08.2026",
+      "date_to": "14.08.2026",
+      "content": [
+        {
+          "date": "08.08.2026",
+          "type": "Stories",
+          "goal": "Social proof",
+          "topic": "Opinie klientów",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać aktualne opinie Google",
+            "Przygotować estetyczne Stories"
+          ]
+        },
+        {
+          "date": "09.08.2026",
+          "type": "Reel",
+          "goal": "Trust",
+          "topic": "Historia klienta i jego projektu",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "TikTok",
+            "YouTube Shorts"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Nagrać konsultację lub fragment procesu",
+            "Pokazać etapy projektu",
+            "Nagrać efekt końcowy",
+            "Uzyskać zgodę klienta"
+          ]
+        },
+        {
+          "date": "10.08.2026",
+          "type": "Stories",
+          "goal": "Engagement",
+          "topic": "Pytania o tatuaże",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Przygotować naklejkę pytań",
+            "Zebrać odpowiedzi"
+          ]
+        },
+        {
+          "date": "11.08.2026",
+          "type": "Reel",
+          "goal": "Expertise",
+          "topic": "Dlaczego duży projekt daje więcej możliwości",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "TikTok",
+            "YouTube Shorts"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać przykład dużego projektu",
+            "Nagrać detale",
+            "Przygotować materiał do napisów"
+          ]
+        },
+        {
+          "date": "12.08.2026",
+          "type": "Stories",
+          "goal": "Sales",
+          "topic": "Wolne terminy i możliwość rezerwacji",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Administrator sprawdza aktualne wolne terminy",
+            "Wybrać tylko realnie dostępne terminy",
+            "Przygotować komunikat bez sztucznej presji"
+          ]
+        },
+        {
+          "date": "13.08.2026",
+          "type": "Post",
+          "goal": "Portfolio",
+          "topic": "Najmocniejsza duża realizacja tygodnia",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "Google Business",
+            "Pinterest"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać najlepsze zdjęcia",
+            "Sprawdzić jakość materiału",
+            "Przygotować opis"
+          ]
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "week": 3,
+      "date_from": "15.08.2026",
+      "date_to": "21.08.2026",
+      "content": [
+        {
+          "date": "15.08.2026",
+          "type": "Stories",
+          "goal": "Studio life",
+          "topic": "Życie studia i praca zespołu",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Nagrać spontaniczne materiały",
+            "Pokazać atmosferę studia"
+          ]
+        },
+        {
+          "date": "16.08.2026",
+          "type": "Reel",
+          "goal": "Desire",
+          "topic": "Cover-up lub trudna realizacja",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "TikTok",
+            "YouTube Shorts"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać mocny przykład",
+            "Nagrać problem → rozwiązanie → efekt",
+            "Wykonać zdjęcia Before / After",
+            "Uzyskać zgodę klienta"
+          ]
+        },
+        {
+          "date": "17.08.2026",
+          "type": "Stories",
+          "goal": "Social proof",
+          "topic": "Opinie klientów",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać aktualne opinie Google",
+            "Przygotować estetyczne Stories"
+          ]
+        },
+        {
+          "date": "18.08.2026",
+          "type": "Reel",
+          "goal": "Reach",
+          "topic": "Duży projekt — historia realizacji",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "TikTok",
+            "YouTube Shorts"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać mocną realizację",
+            "Nagrać proces lub detale pracy",
+            "Wykonać zdjęcia gotowego tatuażu",
+            "Uzyskać zgodę klienta"
+          ]
+        },
+        {
+          "date": "19.08.2026",
+          "type": "Stories",
+          "goal": "Sales",
+          "topic": "Wolne terminy i możliwość rezerwacji",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Administrator sprawdza aktualne wolne terminy",
+            "Wybrać tylko realnie dostępne terminy",
+            "Przygotować komunikat bez sztucznej presji"
+          ]
+        },
+        {
+          "date": "20.08.2026",
+          "type": "Post",
+          "goal": "Portfolio",
+          "topic": "Najmocniejsza duża realizacja tygodnia",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "Google Business",
+            "Pinterest"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać najlepsze zdjęcia",
+            "Sprawdzić jakość materiału",
+            "Przygotować opis"
+          ]
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "week": 4,
+      "date_from": "22.08.2026",
+      "date_to": "28.08.2026",
+      "content": [
+        {
+          "date": "22.08.2026",
+          "type": "Stories",
+          "goal": "Engagement",
+          "topic": "Pytania o tatuaże",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Przygotować naklejkę pytań",
+            "Zebrać odpowiedzi"
+          ]
+        },
+        {
+          "date": "23.08.2026",
+          "type": "Reel",
+          "goal": "International",
+          "topic": "Swettattoo w Szczecinie — klienci zagraniczni",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "TikTok",
+            "YouTube Shorts"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać materiał pokazujący studio i Szczecin",
+            "Pokazać atmosferę studia",
+            "Przygotować wersję angielską"
+          ],
+          "language": "PL + EN"
+        },
+        {
+          "date": "24.08.2026",
+          "type": "Stories",
+          "goal": "Trust",
+          "topic": "Życie studia + opinia klienta",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Nagrać naturalne ujęcia studia",
+            "Wybrać 1–3 opinie Google"
+          ]
+        },
+        {
+          "date": "25.08.2026",
+          "type": "Reel",
+          "goal": "Trust",
+          "topic": "Historia klienta i jego projektu",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "TikTok",
+            "YouTube Shorts"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Nagrać konsultację lub fragment procesu",
+            "Pokazać etapy projektu",
+            "Nagrać efekt końcowy",
+            "Uzyskać zgodę klienta"
+          ]
+        },
+        {
+          "date": "26.08.2026",
+          "type": "Stories",
+          "goal": "Sales",
+          "topic": "Wolne terminy i możliwość rezerwacji",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Administrator sprawdza aktualne wolne terminy",
+            "Wybrać tylko realnie dostępne terminy",
+            "Przygotować komunikat bez sztucznej presji"
+          ]
+        },
+        {
+          "date": "27.08.2026",
+          "type": "Post",
+          "goal": "Portfolio",
+          "topic": "Najmocniejsza duża realizacja tygodnia",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "Google Business",
+            "Pinterest"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać najlepsze zdjęcia",
+            "Sprawdzić jakość materiału",
+            "Przygotować opis"
+          ]
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "week": 5,
+      "date_from": "29.08.2026",
+      "date_to": "31.08.2026",
+      "content": [
+        {
+          "date": "29.08.2026",
+          "type": "Reel",
+          "goal": "Reach",
+          "topic": "Najlepsze momenty miesiąca",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "TikTok",
+            "YouTube Shorts"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać najlepsze materiały z sierpnia",
+            "Zmontować dynamiczny materiał",
+            "Dodać polskie napisy"
+          ]
+        },
+        {
+          "date": "29.08.2026",
+          "type": "Stories",
+          "goal": "Studio life",
+          "topic": "Życie studia i praca zespołu",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Nagrać spontaniczne materiały",
+            "Pokazać atmosferę studia"
+          ]
+        },
+        {
+          "date": "30.08.2026",
+          "type": "Reel",
+          "goal": "Trust",
+          "topic": "Najlepsza historia klienta miesiąca",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "TikTok",
+            "YouTube Shorts"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać najlepszą historię miesiąca",
+            "Pokazać proces i efekt",
+            "Uzyskać zgodę klienta"
+          ]
+        },
+        {
+          "date": "30.08.2026",
+          "type": "Stories",
+          "goal": "Social proof",
+          "topic": "Opinie klientów",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać aktualne opinie Google",
+            "Przygotować estetyczne Stories"
+          ]
+        },
+        {
+          "date": "31.08.2026",
+          "type": "Post",
+          "goal": "Portfolio",
+          "topic": "Najmocniejsza duża realizacja tygodnia",
+          "platforms": [
+            "Instagram",
+            "Facebook",
+            "Google Business",
+            "Pinterest"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Wybrać najlepsze zdjęcia",
+            "Sprawdzić jakość materiału",
+            "Przygotować opis"
+          ]
+        },
+        {
+          "date": "31.08.2026",
+          "type": "Stories",
+          "goal": "Sales",
+          "topic": "Wolne terminy i możliwość rezerwacji",
+          "platforms": [
+            "Instagram Stories"
+          ],
+          "responsible_content": "Diana",
+          "responsible_publication": "Blanka",
+          "preparation": [
+            "Administrator sprawdza aktualne wolne terminy",
+            "Wybrać tylko realnie dostępne terminy",
+            "Przygotować komunikat bez sztucznej presji"
+          ]
+        }
+      ],
+      "status": "DRAFT"
+    }
+  ],
+  "approved_by_owner": true
+}

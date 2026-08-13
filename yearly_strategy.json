@@ -1,0 +1,504 @@
+{
+  "brand": "Swettattoo",
+  "location": "Szczecin, Poland",
+  "main_language": "pl",
+  "secondary_language": "en",
+  "german_content": "occasional",
+  "content_goal": "Pozyskiwanie jakościowych klientów i budowanie pozycji premium studia tatuażu.",
+  "core_principles": [
+    "Nie tworzyć treści tylko po to, aby wypełnić kalendarz.",
+    "Lepiej opublikować mniej mocnych materiałów niż dużo słabych.",
+    "Jakość odbiorców jest ważniejsza niż liczba obserwujących.",
+    "Reels służą głównie do pozyskiwania nowych odbiorców.",
+    "Posts pokazują poziom prac i budują galerię premium.",
+    "Stories budują relację, zaufanie i sprzedaż.",
+    "Każda dobra praca powinna zostać wykorzystana.",
+    "Nie każdy Reel musi sprzedawać.",
+    "Brak dobrego materiału może być powodem do pominięcia publikacji.",
+    "Promocje powinny być komunikowane jako prezenty, bonusy lub specjalne warunki, a nie tanie rabaty."
+  ],
+  "content_targets": {
+    "reels_per_week": {
+      "min": 1,
+      "recommended": 2,
+      "max": 4
+    },
+    "posts_per_week": {
+      "min": 0,
+      "recommended": 1,
+      "max": 2
+    },
+    "stories_per_week": {
+      "min": 2,
+      "recommended": 3,
+      "max": 5
+    },
+    "google_business_per_week": {
+      "min": 0,
+      "recommended": 1,
+      "max": 2
+    },
+    "pinterest_per_week": {
+      "min": 0,
+      "recommended": 1,
+      "max": 3
+    },
+    "linkedin_per_week": {
+      "min": 0,
+      "recommended": 1,
+      "max": 1
+    }
+  },
+  "content_pillars": {
+    "reels": [
+      "historie powstawania tatuaży",
+      "historie klientów",
+      "historie mistrzów",
+      "edukacja",
+      "trudne projekty",
+      "cover-up",
+      "duże projekty",
+      "proces pracy",
+      "atmosfera studia"
+    ],
+    "posts": [
+      "duże projekty",
+      "mocne wizualnie realizacje",
+      "kompleksowe projekty",
+      "historie powstawania tatuaży",
+      "wybrane średnie realizacje",
+      "małe tatuaże w okresowych zestawieniach"
+    ],
+    "stories": [
+      "życie studia",
+      "proces pracy",
+      "atmosfera",
+      "małe tatuaże",
+      "opinie klientów",
+      "wolne terminy",
+      "edukacja",
+      "ankiety",
+      "reakcje klientów",
+      "before_after",
+      "specjalne oferty",
+      "historie mistrzów"
+    ]
+  },
+  "content_debt": {
+    "google_reviews": {
+      "target_days": 7,
+      "priority": "medium"
+    },
+    "education": {
+      "target_days": 30,
+      "priority": "high"
+    },
+    "master_story": {
+      "target_days": 30,
+      "priority": "medium"
+    },
+    "large_project": {
+      "target_days": 7,
+      "priority": "high"
+    },
+    "small_tattoos": {
+      "target_days": 14,
+      "priority": "low"
+    },
+    "cover_up": {
+      "target_days": 30,
+      "priority": "high"
+    },
+    "german_or_english_content": {
+      "target_days": 30,
+      "priority": "medium"
+    }
+  },
+  "roles": {
+    "Diana": {
+      "work_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "main_responsibilities": [
+        "nagrywanie",
+        "fotografia",
+        "zbieranie materiałów",
+        "tworzenie materiałów do Reels",
+        "Stories",
+        "materiały zza kulis",
+        "udział w nagraniach"
+      ]
+    },
+    "Blanka": {
+      "work_days": [
+        "Monday",
+        "Friday",
+        "Saturday"
+      ],
+      "main_responsibilities": [
+        "publikacja",
+        "teksty",
+        "Google Business",
+        "Pinterest",
+        "LinkedIn",
+        "planowanie",
+        "dystrybucja treści",
+        "kontrola gotowości materiałów"
+      ]
+    }
+  },
+  "platform_strategy": {
+    "instagram": "Główna platforma marki.",
+    "facebook": "Adaptacja najlepszych materiałów.",
+    "pinterest": "Długoterminowe wykorzystanie zdjęć i inspiracji.",
+    "google_business": "Lokalne wyszukiwanie i zaufanie.",
+    "linkedin": "Profesjonalny i biznesowy wizerunek marki.",
+    "tiktok": "Adaptacja wybranych mocnych Reels.",
+    "youtube_shorts": "Adaptacja wybranych mocnych Reels."
+  },
+  "audience": {
+    "primary": [
+      "Szczecin",
+      "okolice Szczecina",
+      "klienci zainteresowani dużymi tatuażami",
+      "klienci premium"
+    ],
+    "secondary": [
+      "Niemcy",
+      "obcokrajowcy mieszkający w Szczecinie",
+      "anglojęzyczni klienci"
+    ]
+  },
+  "annual_calendar": {
+    "January": {
+      "strength": "weak",
+      "main_goal": "Wypełnienie stycznia zapisami jeszcze w grudniu.",
+      "main_topics": [
+        "nowy rok",
+        "duże projekty",
+        "start nowych projektów",
+        "prezent od Swettattoo"
+      ],
+      "campaigns": [
+        "Prezent pod choinkę — zapisy na styczeń"
+      ],
+      "sales_priority": "high"
+    },
+    "February": {
+      "strength": "weak",
+      "main_goal": "Wykorzystanie Walentynek do zwiększenia liczby rezerwacji.",
+      "main_topics": [
+        "tatuaże dla par",
+        "symbole relacji",
+        "wspólne projekty",
+        "pomysły na prezent"
+      ],
+      "campaigns": [
+        "Valentine's Day"
+      ],
+      "sales_priority": "high"
+    },
+    "March": {
+      "strength": "medium",
+      "main_goal": "Wiosenny wzrost zainteresowania tatuażami.",
+      "main_topics": [
+        "8 marca",
+        "kobiece projekty",
+        "duże tatuaże",
+        "przygotowanie do lata"
+      ],
+      "campaigns": [
+        "Dzień Kobiet"
+      ],
+      "sales_priority": "high"
+    },
+    "April": {
+      "strength": "strong",
+      "main_goal": "Rozpoczęcie intensywnej sprzedaży dużych projektów przed latem.",
+      "main_topics": [
+        "duże tatuaże",
+        "cover-up",
+        "sleeve",
+        "backpiece",
+        "projekty wielosesyjne",
+        "przygotowanie do lata"
+      ],
+      "sales_priority": "high"
+    },
+    "May": {
+      "strength": "strong",
+      "main_goal": "Maksymalizacja sprzedaży dużych projektów.",
+      "main_topics": [
+        "duże projekty",
+        "cover-up",
+        "historie klientów",
+        "historie mistrzów",
+        "eksperckość"
+      ],
+      "sales_priority": "high"
+    },
+    "June": {
+      "strength": "strong",
+      "main_goal": "Pokazanie efektów i przygotowanie klientów do lata.",
+      "main_topics": [
+        "gotowe projekty",
+        "wygojone tatuaże",
+        "pielęgnacja",
+        "SPF",
+        "historie klientów",
+        "duże projekty"
+      ],
+      "sales_priority": "high"
+    },
+    "July": {
+      "strength": "strong",
+      "main_goal": "Wykorzystanie wysokiego sezonu i większej aktywności klientów.",
+      "main_topics": [
+        "duże projekty",
+        "życie studia",
+        "lato",
+        "podróże",
+        "plaża",
+        "pielęgnacja",
+        "zagraniczni klienci"
+      ],
+      "sales_priority": "high"
+    },
+    "August": {
+      "strength": "strong",
+      "main_goal": "Maksymalne wykorzystanie sezonu letniego bez sztucznego zwiększania liczby publikacji.",
+      "main_topics": [
+        "duże projekty",
+        "życie studia",
+        "lato",
+        "zagraniczni klienci",
+        "Szczecin",
+        "Niemcy"
+      ],
+      "sales_priority": "high",
+      "recommended_frequency": {
+        "Reels": "2-3 per week",
+        "Posts": "1-2 per week",
+        "Stories": "3-5 per week"
+      },
+      "quality_rule": "Jeśli nie ma mocnego materiału, publikację można pominąć. Jakość jest ważniejsza niż częstotliwość.",
+      "content_breaks": true
+    },
+    "September": {
+      "strength": "strong",
+      "main_goal": "Powrót do dużych projektów po okresie wakacyjnym.",
+      "main_topics": [
+        "powrót do pracy",
+        "duże projekty",
+        "cover-up",
+        "nowe projekty"
+      ],
+      "campaigns": [
+        "Wracamy do dużych projektów"
+      ],
+      "sales_priority": "high"
+    },
+    "October": {
+      "strength": "strong",
+      "main_goal": "Budowanie projektów na kolejny sezon.",
+      "main_topics": [
+        "cover-up",
+        "duże projekty",
+        "projekty wielosesyjne",
+        "Halloween",
+        "projekty na przyszłe lato"
+      ],
+      "sales_priority": "high"
+    },
+    "November": {
+      "strength": "strong",
+      "main_goal": "Sprzedaż dużych projektów i przygotowanie kampanii grudniowej.",
+      "main_topics": [
+        "cover-up",
+        "duże projekty",
+        "projekty wielosesyjne",
+        "przygotowanie prezentu świątecznego"
+      ],
+      "sales_priority": "high"
+    },
+    "December": {
+      "strength": "weak",
+      "main_goal": "Sprzedać styczeń zamiast próbować maksymalizować grudniowe wizyty.",
+      "main_topics": [
+        "prezent pod choinkę",
+        "vouchery",
+        "zapisy na styczeń",
+        "najlepsze realizacje roku",
+        "podsumowanie roku"
+      ],
+      "campaigns": [
+        "Prezent pod choinkę",
+        "Zapisy na styczeń"
+      ],
+      "sales_priority": "high"
+    }
+  },
+  "seasonal_strategy": {
+    "spring": {
+      "period": "April-May",
+      "focus": [
+        "duże projekty",
+        "cover-up",
+        "sleeve",
+        "backpiece",
+        "projekty przed latem"
+      ]
+    },
+    "summer": {
+      "period": "June-August",
+      "focus": [
+        "efekty",
+        "wygojone prace",
+        "życie studia",
+        "zagraniczni klienci",
+        "Szczecin",
+        "lato"
+      ]
+    },
+    "autumn": {
+      "period": "September-November",
+      "focus": [
+        "duże projekty",
+        "cover-up",
+        "projekty wielosesyjne",
+        "projekty na następne lato"
+      ]
+    },
+    "winter": {
+      "period": "December-February",
+      "focus": [
+        "prezenty",
+        "styczeń",
+        "Walentynek",
+        "tatuaże dla par",
+        "planowanie dużych projektów"
+      ]
+    }
+  },
+  "special_dates_rules": {
+    "rule": "Nie tworzyć treści tylko dlatego, że istnieje święto.",
+    "require_marketing_reason": true,
+    "consider": [
+      "Dzień Kobiet",
+      "Walentynki",
+      "Dzień Matki",
+      "Dzień Ojca",
+      "Halloween",
+      "Boże Narodzenie",
+      "Nowy Rok",
+      "polskie święta państwowe",
+      "lokalne wydarzenia Szczecina",
+      "konwencje tattoo",
+      "dni zawodowe"
+    ],
+    "professional_days": {
+      "rule": "Maksymalnie jedna wybrana profesja jako większa kampania rocznie, jeśli istnieje realny potencjał marketingowy.",
+      "examples": [
+        "strażacy",
+        "ratownicy",
+        "medycy",
+        "nauczyciele",
+        "policjanci",
+        "sportowcy",
+        "motocykliści"
+      ]
+    }
+  },
+  "commercial_categories": {
+    "priority": [
+      "duże projekty",
+      "cover-up",
+      "projekty wielosesyjne",
+      "sleeve",
+      "backpiece"
+    ],
+    "secondary": [
+      "średnie tatuaże",
+      "małe tatuaże",
+      "tatuaże dla par"
+    ]
+  },
+  "campaign_rules": {
+    "discount_positioning": false,
+    "preferred_offer_language": [
+      "prezent",
+      "bonus",
+      "specjalne warunki",
+      "podziękowanie dla klientów",
+      "specjalny projekt"
+    ],
+    "avoid": [
+      "tania promocja",
+      "ciągłe rabaty",
+      "presja zakupowa",
+      "sztuczna pilność"
+    ]
+  },
+  "international_strategy": {
+    "main_content_language": "Polish",
+    "english_frequency": "approximately once every 2 weeks or minimum once per month",
+    "german_frequency": "occasional",
+    "german_content_rule": "Nie tworzyć osobnej machiny contentowej. Adaptować najlepsze materiały.",
+    "focus": [
+      "Szczecin",
+      "klienci z Niemiec",
+      "obcokrajowcy"
+    ]
+  },
+  "approval_workflow": {
+    "planning": "AI przygotowuje propozycję.",
+    "approval": "Svetozar zatwierdza plan.",
+    "calendar": "Dopiero po zatwierdzeniu AI dodaje zadania do Google Calendar.",
+    "publishing": "AI nie publikuje automatycznie bez osobnego zatwierdzenia."
+  },
+  "quality_rules": [
+    "Nie publikować słabego materiału tylko dlatego, że plan wymaga publikacji.",
+    "Każda dobra praca powinna zostać wykorzystana.",
+    "Duże projekty mają najwyższy priorytet.",
+    "Cover-up jest ważną kategorią komercyjną.",
+    "Reels nie muszą bezpośrednio sprzedawać.",
+    "Każdy materiał powinien mieć jeden główny cel: Reach, Trust, Expertise, Desire lub Booking.",
+    "Treści powinny wyglądać premium.",
+    "Treść spontaniczna pozostaje poza sztywnym kalendarzem.",
+    "Plan tygodniowy ma być elastyczny."
+  ],
+  "publishing_rules": {
+    "principle": "Jakość ważniejsza niż częstotliwość.",
+    "reels": {
+      "target_per_week": "2-3",
+      "minimum": 0,
+      "maximum_recommended": 4,
+      "rule": "Nie publikować słabego Reelsa tylko po to, aby zrealizować tygodniową liczbę."
+    },
+    "posts": {
+      "target_per_week": "1-2",
+      "minimum": 0,
+      "rule": "Publikować przede wszystkim duże i mocne realizacje."
+    },
+    "stories": {
+      "target_per_week": "3-5",
+      "minimum": 0,
+      "maximum_per_output": 10,
+      "rule": "Stories mają mieć konkretny cel. Nie publikować codziennie tylko dla regularności."
+    },
+    "breaks": {
+      "allowed": true,
+      "rule": "Dzień bez publikacji jest prawidłowym rozwiązaniem, jeśli brak wartościowego materiału."
+    },
+    "live_content": {
+      "priority": "high",
+      "rule": "Spontaniczne sytuacje, wolne terminy, reakcje klientów i ciekawe momenty mogą zastąpić zaplanowany materiał."
+    },
+    "content_debt": {
+      "enabled": true,
+      "rule": "Agent ma kontrolować, kiedy ostatnio publikowano poszczególne kategorie i proponować brakujące elementy."
+    }
+  }
+}

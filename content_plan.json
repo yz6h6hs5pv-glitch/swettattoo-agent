@@ -1,0 +1,182 @@
+{
+  "week": "17–23.08.2026",
+  "strategy": "Tydzień wzmacnia premium pozycjonowanie Swettattoo poprzez pokazanie procesu, jakości, atmosfery i opinii klientów. Łączy sprzedaż, eksperckość, zaufanie, markę osobistą oraz komunikację skierowaną do klientów z Niemiec. Materiały są przygotowywane tak, aby można je było wykorzystać na kilku platformach.",
+  "tasks": [
+    {
+      "date": "17.08.2026",
+      "responsible": "Diana",
+      "task_type": "Planowanie",
+      "platform": "Instagram",
+      "title": "Przygotowanie tygodniowych materiałów",
+      "goal": "Sprawna realizacja planu i spójność wizualna",
+      "description": "Ustalić, które realizacje, procesy i elementy atmosfery studia zostaną pokazane w tym tygodniu. Przygotować listę ujęć oraz uzyskać zgodę klienta na publikację wizerunku, jeśli będzie potrzebna.",
+      "hook": "Nie pokazujemy wyłącznie efektu — pokazujemy całą drogę do jakości.",
+      "cta": "Przygotuj listę ujęć i potwierdź dostępność materiałów."
+    },
+    {
+      "date": "17.08.2026",
+      "responsible": "Blanka",
+      "task_type": "Tekst",
+      "platform": "Instagram",
+      "title": "Przygotowanie tematów i CTA",
+      "goal": "Zwiększenie skuteczności komunikacji sprzedażowej i edukacyjnej",
+      "description": "Przygotować krótkie założenia tekstów do publikacji, Stories i materiałów dla niemieckiej grupy odbiorców. Nie dodawać niepotwierdzonych informacji o terminach ani cenach.",
+      "hook": "Dobra decyzja dotycząca tatuażu zaczyna się od właściwych pytań.",
+      "cta": "Przygotuj teksty do akceptacji przed publikacją."
+    },
+    {
+      "date": "18.08.2026",
+      "responsible": "Diana",
+      "task_type": "Nagranie",
+      "platform": "Instagram Reels",
+      "title": "Reel: proces powstawania tatuażu",
+      "goal": "Pokazanie jakości, precyzji i profesjonalnego procesu",
+      "description": "Nagrać krótkie, estetyczne ujęcia przygotowania stanowiska, pracy artysty, detali narzędzi i fragmentów procesu. Unikać pokazywania danych klienta.",
+      "hook": "Tatuaż zaczyna się na długo przed pierwszym ruchem maszynki.",
+      "cta": "Napisz do nas, aby porozmawiać o swoim projekcie."
+    },
+    {
+      "date": "18.08.2026",
+      "responsible": "Diana",
+      "task_type": "Zdjęcia",
+      "platform": "Instagram",
+      "title": "Zdjęcia detali realizacji i studia",
+      "goal": "Budowanie wizerunku premium i zaufania",
+      "description": "Wykonać zdjęcia detali świeżej lub wygojonej realizacji, stanowiska oraz estetycznych elementów wnętrza. Zadbać o naturalne światło i spójną kolorystykę.",
+      "hook": "Jakość widać w detalach.",
+      "cta": "Zobacz więcej realizacji i skontaktuj się z nami w sprawie konsultacji."
+    },
+    {
+      "date": "19.08.2026",
+      "responsible": "Diana",
+      "task_type": "Montaż",
+      "platform": "Instagram Reels",
+      "title": "Montaż Reela o procesie",
+      "goal": "Przygotowanie materiału zwiększającego zaufanie do studia",
+      "description": "Zmontować dynamiczny, ale elegancki Reel z ujęć procesu. Dodać krótkie napisy po polsku oraz wersję napisów po niemiecku do późniejszej adaptacji.",
+      "hook": "Precyzja, higiena i skupienie — tak wygląda praca nad dobrym tatuażem.",
+      "cta": "Skontaktuj się z Swettattoo w Szczecinie."
+    },
+    {
+      "date": "19.08.2026",
+      "responsible": "Blanka",
+      "task_type": "Tekst",
+      "platform": "Instagram Reels",
+      "title": "Tekst do Reela i wersja niemiecka",
+      "goal": "Dotarcie do klientów z Polski i Niemiec",
+      "description": "Napisać opis Reela wyjaśniający, dlaczego proces ma znaczenie dla jakości. Przygotować także zrozumiałą wersję niemiecką bez obietnic wykraczających poza pokazany materiał.",
+      "hook": "Ein hochwertiges Tattoo beginnt mit einem professionellen Prozess.",
+      "cta": "Schreib uns, um dein Projekt in Szczecin zu besprechen."
+    },
+    {
+      "date": "20.08.2026",
+      "responsible": "Blanka",
+      "task_type": "Publikacja",
+      "platform": "Instagram Reels",
+      "title": "Publikacja Reela o procesie",
+      "goal": "Zwiększenie zaufania i pozyskanie zapytań",
+      "description": "Opublikować Reel, sprawdzić napisy, oznaczyć lokalizację Szczecin i odpowiednie konto artysty, jeśli dotyczy. Odpowiadać na komentarze i wiadomości.",
+      "hook": "To, czego nie widać na gotowym zdjęciu, często decyduje o jakości.",
+      "cta": "Napisz wiadomość i opowiedz nam o swoim pomyśle."
+    },
+    {
+      "date": "20.08.2026",
+      "responsible": "Diana",
+      "task_type": "Stories",
+      "platform": "Instagram Stories",
+      "title": "Stories zza kulis pracy studia",
+      "goal": "Budowanie relacji i pokazanie atmosfery",
+      "description": "Opublikować 4–6 Stories: przygotowanie dnia, detal wnętrza, fragment procesu oraz ankietę dotyczącą najważniejszego elementu dobrej wizyty w studiu.",
+      "hook": "Co najbardziej wpływa na komfort podczas tatuowania?",
+      "cta": "Oddaj głos w ankiecie i napisz do nas, jeśli planujesz tatuaż."
+    },
+    {
+      "date": "21.08.2026",
+      "responsible": "Diana",
+      "task_type": "Nagranie",
+      "platform": "Instagram Reels",
+      "title": "Reel dla klientów z Niemiec",
+      "goal": "Przyciągnięcie niemieckich klientów do Szczecina",
+      "description": "Nagrać materiał pokazujący studio, atmosferę, proces konsultacji i łatwy do zrozumienia kontekst wizyty w Szczecinie. Nie przedstawiać niepotwierdzonych informacji o dojeździe ani dostępności.",
+      "hook": "Ein Tattoo-Termin in Szczecin — professionell, persönlich und mit Liebe zum Detail.",
+      "cta": "Schreib uns auf Deutsch und erzähl uns von deinem Tattoo-Projekt."
+    },
+    {
+      "date": "21.08.2026",
+      "responsible": "Diana",
+      "task_type": "Zdjęcia",
+      "platform": "Instagram",
+      "title": "Zdjęcia zespołu i konsultacji",
+      "goal": "Humanizacja marki i budowanie zaufania",
+      "description": "Wykonać naturalne zdjęcia zespołu podczas rozmowy z klientem oraz detali konsultacji. Skupić się na uważności, komunikacji i atmosferze.",
+      "hook": "Dobra realizacja zaczyna się od dobrej rozmowy.",
+      "cta": "Umów konsultację i opowiedz nam o swojej wizji."
+    },
+    {
+      "date": "22.08.2026",
+      "responsible": "Diana",
+      "task_type": "Montaż",
+      "platform": "Instagram Reels",
+      "title": "Montaż materiału dla niemieckiej grupy",
+      "goal": "Wzmocnienie widoczności Swettattoo wśród klientów z Niemiec",
+      "description": "Zmontować Reel z czytelnymi napisami po niemiecku, pokazujący studio, konsultację i standard pracy. Zachować spokojny, premium charakter materiału.",
+      "hook": "Von der ersten Idee bis zum fertigen Tattoo — persönlich begleitet.",
+      "cta": "Schreib uns für eine individuelle Beratung."
+    },
+    {
+      "date": "22.08.2026",
+      "responsible": "Blanka",
+      "task_type": "Publikacja",
+      "platform": "Google Business",
+      "title": "Aktualizacja profilu Google Business",
+      "goal": "Zwiększenie lokalnej widoczności i liczby wartościowych zapytań",
+      "description": "Dodać aktualne zdjęcia studia lub realizacji oraz krótki wpis o indywidualnym podejściu i konsultacji. Sprawdzić poprawność lokalizacji i wezwania do kontaktu.",
+      "hook": "Szukasz profesjonalnego studia tatuażu w Szczecinie?",
+      "cta": "Skontaktuj się ze Swettattoo i przedstaw swój pomysł."
+    },
+    {
+      "date": "22.08.2026",
+      "responsible": "Blanka",
+      "task_type": "Pinterest",
+      "platform": "Pinterest",
+      "title": "Publikacja pinów z detalami realizacji",
+      "goal": "Długoterminowe zwiększanie ruchu i rozpoznawalności marki",
+      "description": "Opublikować 3–5 estetycznych pinów ze zdjęć realizacji i detali studia. Dodać opis zawierający Swettattoo, Szczecin oraz kategorię stylu wyłącznie wtedy, gdy jest potwierdzona.",
+      "hook": "Tattoo inspiration created with precision in Szczecin.",
+      "cta": "Zobacz więcej inspiracji i odwiedź Swettattoo."
+    },
+    {
+      "date": "23.08.2026",
+      "responsible": "Blanka",
+      "task_type": "LinkedIn",
+      "platform": "LinkedIn",
+      "title": "Publikacja o standardzie obsługi klienta",
+      "goal": "Budowanie profesjonalnego wizerunku marki",
+      "description": "Opublikować post o tym, jak komunikacja, przygotowanie i komfort klienta wpływają na doświadczenie w studiu premium. Ton rzeczowy i ludzki, bez przesadnych deklaracji.",
+      "hook": "Premium nie oznacza dystansu — oznacza uważność na każdym etapie.",
+      "cta": "Obserwuj Swettattoo, aby poznać nasze podejście do jakości i obsługi."
+    },
+    {
+      "date": "23.08.2026",
+      "responsible": "Diana",
+      "task_type": "Stories",
+      "platform": "Instagram Stories",
+      "title": "Stories: pytania i odpowiedzi o przygotowaniu do tatuażu",
+      "goal": "Edukacja odbiorców i redukcja obaw przed kontaktem",
+      "description": "Przygotować serię Stories z naklejką pytań. Odpowiedzieć na najczęstsze pytania dotyczące konsultacji, przygotowania i przebiegu wizyty, korzystając wyłącznie z potwierdzonych informacji.",
+      "hook": "Masz pytanie przed pierwszą wizytą? Możesz zadać je tutaj.",
+      "cta": "Zostaw pytanie w okienku lub napisz do nas prywatnie."
+    },
+    {
+      "date": "23.08.2026",
+      "responsible": "Blanka",
+      "task_type": "Publikacja",
+      "platform": "Instagram",
+      "title": "Publikacja karuzeli: jak przygotować się do konsultacji",
+      "goal": "Edukacja i zwiększenie liczby dobrze przygotowanych zapytań",
+      "description": "Opublikować karuzelę z praktycznymi wskazówkami: jak opisać pomysł, jakie inspiracje przygotować i jakie informacje przekazać przed konsultacją. Dodać lokalizację Szczecin.",
+      "hook": "Im lepiej opowiesz o swoim pomyśle, tym łatwiej stworzyć właściwy kierunek projektu.",
+      "cta": "Wyślij nam swój pomysł i rozpocznij rozmowę o projekcie."
+    }
+  ]
+}

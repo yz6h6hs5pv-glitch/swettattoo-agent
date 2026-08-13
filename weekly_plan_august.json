@@ -1,0 +1,81 @@
+{
+  "month": "August",
+  "strategy": "Maksymalne wykorzystanie sezonu letniego bez sztucznego zwiększania liczby publikacji.",
+  "weeks": [
+    {
+      "week": 1,
+      "date_from": "01.08.2026",
+      "date_to": "07.08.2026",
+      "strategy": "Jakość ważniejsza niż częstotliwość. Publikować tylko mocne materiały.",
+      "publishing_days": [],
+      "preparation_tasks": [],
+      "content_debt": [],
+      "notes": [
+        "Pozostawić dni bez publikacji.",
+        "Reels: priorytet dla dużych projektów, historii klientów i życia studia.",
+        "Posts: głównie mocne realizacje i portfolio premium.",
+        "Stories: studio, klienci, opinie, proces i spontaniczne sytuacje."
+      ]
+    },
+    {
+      "week": 2,
+      "date_from": "08.08.2026",
+      "date_to": "14.08.2026",
+      "strategy": "Jakość ważniejsza niż częstotliwość. Publikować tylko mocne materiały.",
+      "publishing_days": [],
+      "preparation_tasks": [],
+      "content_debt": [],
+      "notes": [
+        "Pozostawić dni bez publikacji.",
+        "Reels: priorytet dla dużych projektów, historii klientów i życia studia.",
+        "Posts: głównie mocne realizacje i portfolio premium.",
+        "Stories: studio, klienci, opinie, proces i spontaniczne sytuacje."
+      ]
+    },
+    {
+      "week": 3,
+      "date_from": "15.08.2026",
+      "date_to": "21.08.2026",
+      "strategy": "Jakość ważniejsza niż częstotliwość. Publikować tylko mocne materiały.",
+      "publishing_days": [],
+      "preparation_tasks": [],
+      "content_debt": [],
+      "notes": [
+        "Pozostawić dni bez publikacji.",
+        "Reels: priorytet dla dużych projektów, historii klientów i życia studia.",
+        "Posts: głównie mocne realizacje i portfolio premium.",
+        "Stories: studio, klienci, opinie, proces i spontaniczne sytuacje."
+      ]
+    },
+    {
+      "week": 4,
+      "date_from": "22.08.2026",
+      "date_to": "28.08.2026",
+      "strategy": "Jakość ważniejsza niż częstotliwość. Publikować tylko mocne materiały.",
+      "publishing_days": [],
+      "preparation_tasks": [],
+      "content_debt": [],
+      "notes": [
+        "Pozostawić dni bez publikacji.",
+        "Reels: priorytet dla dużych projektów, historii klientów i życia studia.",
+        "Posts: głównie mocne realizacje i portfolio premium.",
+        "Stories: studio, klienci, opinie, proces i spontaniczne sytuacje."
+      ]
+    },
+    {
+      "week": 5,
+      "date_from": "29.08.2026",
+      "date_to": "31.08.2026",
+      "strategy": "Jakość ważniejsza niż częstotliwość. Publikować tylko mocne materiały.",
+      "publishing_days": [],
+      "preparation_tasks": [],
+      "content_debt": [],
+      "notes": [
+        "Pozostawić dni bez publikacji.",
+        "Reels: priorytet dla dużych projektów, historii klientów i życia studia.",
+        "Posts: głównie mocne realizacje i portfolio premium.",
+        "Stories: studio, klienci, opinie, proces i spontaniczne sytuacje."
+      ]
+    }
+  ]
+}
